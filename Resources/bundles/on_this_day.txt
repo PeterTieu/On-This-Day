@@ -1,0 +1,13 @@
+//MAIN MENU
+BITMAP,input_box_off,input_box_off.png
+BITMAP,input_box_on,input_box_on.png
+
+//USER GUIDE
+BITMAP,c_key,c_key.png
+BITMAP,right_arrow_key,right_arrow_key.png
+BITMAP,left_arrow_key,left_arrow_key.png
+BITMAP,space_key,space_key.png
+
+//BACKGROUND
+BITMAP,background_on_this_day_1,background_on_this_day_1.png
+BITMAP,background_on_this_day_2,background_on_this_day_2.png
